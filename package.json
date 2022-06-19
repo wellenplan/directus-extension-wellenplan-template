@@ -1,0 +1,8 @@
+{
+	"name": "@wellenplan/directus-extension-wellenplan-template",
+	"version": "0.0.0",
+	"scripts": {
+		"test": "echo 'not implemented'",
+		"build": "mkdir dist/; echo \"console.log('build not implemented');\" >> dist/index.js"
+	}
+}
