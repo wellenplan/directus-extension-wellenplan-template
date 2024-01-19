@@ -9,7 +9,7 @@ on:
 
 jobs:
   call-workflow:
-    uses: wellenplan/actions/.github/workflows/directus-extension.yaml@v0.2.0
+    uses: wellenplan/actions/.github/workflows/directus-extension.yaml@v0.2.1
     with:
       # TODO: remove once repo is ready
       publish: false
